@@ -113,3 +113,6 @@ The following models were trained and evaluated on accuracy, precision, recall, 
 - **Best Parameters**: `{'n_estimators': 100, 'max_depth': 5, 'learning_rate': 0.1, 'subsample': 1, 'colsample_bytree': 0.8}`
 - **Cross-Validation Accuracy**: 86.24%
 - **Cross-Validation F1-Score (Class 1 - Churn)**: 58.38%
+
+### Current Work:
+- **Ongoing Development**: I am currently building an interactive **Tableau dashboard** to complement the predictive model, which will provide business insights through visualizations (e.g., churn by customer segment, feature importance, and financial impact).
